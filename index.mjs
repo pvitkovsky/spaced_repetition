@@ -1,4 +1,4 @@
-const addSubtractDate = require('add-subtract-date');
+import addSubtractDate from "add-subtract-date";
 
 function calcFactor(oldFac, quality) {
   // calculate factor according to supermemo2 formula
